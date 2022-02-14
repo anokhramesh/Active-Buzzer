@@ -1,2 +1,2 @@
 # Active-Buzzer
-Interfacing Ky006 Passive Buzzer with Arduino
+Interfacing Ky-012 Passive Buzzer with Arduino
